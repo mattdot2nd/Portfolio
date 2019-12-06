@@ -1,0 +1,16 @@
+#nav{
+    display: block;
+    background-color: gray;
+    font-size: 32px;
+}
+
+header{
+    background: white;
+    display: inline;
+    padding: 30px;
+}
+div{
+    position: relative;
+    top: 0;
+    right: -107px;
+}
