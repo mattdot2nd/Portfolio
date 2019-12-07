@@ -3,14 +3,18 @@
     background-color: gray;
     font-size: 32px;
 }
-
-header{
-    background: white;
-    display: inline;
-    padding: 30px;
-}
 div{
     position: relative;
     top: 0;
-    right: -107px;
+    right:0;
+}
+#link{
+    float: right;
+}
+h1{
+    width: 25%;
+    margin: 0;
+}
+.navlinks{
+   display: inline-block;
 }
